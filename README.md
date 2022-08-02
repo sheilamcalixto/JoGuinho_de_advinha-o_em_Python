@@ -1,4 +1,4 @@
-# Joquinho de advinha o em Python
+# Joguinho de advinhação em Python
 
 Introdução
 
